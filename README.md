@@ -22,3 +22,13 @@ Exemplos de Entrada  | Exemplos de Saída
 11 7  | X = 18
 -11 6  | X = -5 
 11 -2  | X =  9 
+
+
+##### Javascript　
+
+```javascript
+//Recebe a entrada em string e armazena no array
+var valor = gets().split(" ");
+//Utilizado parseInt() para mudar string em inteiro. Calcula e imprime o resulado
+console.log("X = " + (parseInt(valor[0]) + parseInt(valor[1])));
+```
