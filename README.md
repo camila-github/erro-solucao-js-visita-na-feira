@@ -1,6 +1,6 @@
 ## Exercicio: Vista na Feira - Calcular Pimentões
 
-O exercicio publicado é referente ao treinamento de Java Script da (https://digitalinnovation.one)
+O exercicio publicado é referente ao treinamento de Java Script da [https://digitalinnovation.one](https://digitalinnovation.one)
 
 
 #### Descrição do Desafio:
